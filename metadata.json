@@ -1,0 +1,6 @@
+{
+  "name": "SafeRoute",
+  "description": "AI-powered pedestrian route awareness platform to compare walking routes with verified hazards, footpaths, lighting, and accessibility context.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
